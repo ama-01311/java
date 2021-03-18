@@ -22,5 +22,5 @@ public class practice6 {
     System.out.println("体重は" + weight + "kgです");
     System.out.println("BMIは" + bmi + "です");
     
-  
+  }
 }
